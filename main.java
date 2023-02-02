@@ -11,7 +11,7 @@ import java.sql.Statement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-public class managePassword {
+public class main {
 	
 	public static void displayPasswordsFromDatabase(String connectionString)
 	{
